@@ -62,7 +62,7 @@
   "STATUS_SYSTEM_VALUE": "ОС: **{{os_version}}**\nNode.js: **{{node_version}}**\nDiscord.js: **{{dc_version}}**\nLavaShark: **{{shark_version}}**\nCPU: **{{cpu}}**\nВремя работы: **{{uptime}}**\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
 
   "STATUS_USAGE_TITLE": "📊 НАГРУЗКА",
-  "STATUS_USAGE_VALUE": "CPU: **{{cpuUsage}}**\nRAM: **{{ramUsage}}**\nHeap: **{{heapUsage}}**\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+  "STATUS_USAGE_VALUE": "ЦП: **{{cpuUsage}}**\nОЗУ: **{{ramUsage}}**\nHeap: **{{heapUsage}}**\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
 
   "QUEUE_NOW_PLAYING": "**Сейчас играет:**",
   "QUEUE_EMPTY": "*Нет треков в очереди*",
